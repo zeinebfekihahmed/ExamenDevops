@@ -1,0 +1,113 @@
+2022-03-08 22:59:03.219  INFO 16600 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-03-08 22:59:03.290  INFO 16600 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.4.Final
+2022-03-08 22:59:03.489  INFO 16600 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-03-08 22:59:03.941  INFO 16600 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-03-08 22:59:05.106  INFO 16600 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-03-08 22:59:06.200  WARN 16600 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-08 22:59:07.461  INFO 16600 --- [main] c.e.e.services.FormateurServiceTest      : Started FormateurServiceTest in 6.453 seconds (JVM running for 8.064)
+2022-03-08 22:59:07.922  INFO 16600 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : deleteAll exécutée avec succès
+2022-03-08 22:59:07.923  INFO 16600 --- [main] com.esprit.examen.services.CoursService  : In addCours()
+2022-03-08 22:59:07.999  INFO 16600 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addCours exécutée avec succès
+2022-03-08 22:59:08.215  INFO 16600 --- [main] c.e.e.services.FormateurServiceTest      : start test
+2022-03-08 22:59:08.380  INFO 16600 --- [main] c.e.e.services.FormateurServiceTest      : Formateur [id=47, nom=Ben Fekih Ahmed, prenom=Zeineb, poste=Ingénieur, contrat=CDI, email=ahmedzeineb.benfekih@esprit.tn, password=password, sessions=null]
+2022-03-08 22:59:08.380  INFO 16600 --- [main] c.e.e.services.FormateurServiceTest      : final test
+2022-03-08 22:59:08.380  INFO 16600 --- [main] c.e.e.services.FormateurServiceTest      : Method execution time: 164 milliseconds.
+2022-03-08 23:18:05.598  INFO 9440 --- [main] c.e.examen.services.CoursServiceTest     : Starting CoursServiceTest using Java 1.8.0_111 on LAPTOP-8K52BF4Q with PID 9440 (started by ASUS in C:\Users\ASUS\Downloads\ges-formation-master)
+2022-03-08 23:18:05.599  INFO 9440 --- [main] c.e.examen.services.CoursServiceTest     : No active profile set, falling back to default profiles: default
+2022-03-08 23:18:07.453  INFO 9440 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-03-08 23:18:07.511  INFO 9440 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.4.Final
+2022-03-08 23:18:07.907  INFO 9440 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-03-08 23:18:08.640  INFO 9440 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-03-08 23:18:10.104  INFO 9440 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-03-08 23:18:11.351  WARN 9440 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-08 23:18:12.610  INFO 9440 --- [main] c.e.examen.services.CoursServiceTest     : Started CoursServiceTest in 7.383 seconds (JVM running for 8.683)
+2022-03-08 23:18:14.462  INFO 9440 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : deleteAll exécutée avec succès
+2022-03-08 23:18:14.464  INFO 9440 --- [main] com.esprit.examen.services.CoursService  : In addCours()
+2022-03-08 23:18:14.606  INFO 9440 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addCours exécutée avec succès
+2022-03-08 23:18:15.431  INFO 9440 --- [main] c.e.e.services.FormateurServiceTest      : start test
+2022-03-08 23:18:15.503  INFO 9440 --- [main] c.e.e.services.FormateurServiceTest      : Formateur [id=48, nom=Ben Fekih Ahmed, prenom=Zeineb, poste=Ingénieur, contrat=CDI, email=ahmedzeineb.benfekih@esprit.tn, password=password, sessions=null]
+2022-03-08 23:18:15.503  INFO 9440 --- [main] c.e.e.services.FormateurServiceTest      : final test
+2022-03-08 23:18:15.503  INFO 9440 --- [main] c.e.e.services.FormateurServiceTest      : Method execution time: 71 milliseconds.
+2022-03-08 23:21:58.003  INFO 16248 --- [main] c.e.e.services.FormateurServiceTest      : Starting FormateurServiceTest using Java 1.8.0_111 on LAPTOP-8K52BF4Q with PID 16248 (started by ASUS in C:\Users\ASUS\Downloads\ges-formation-master)
+2022-03-08 23:21:58.005  INFO 16248 --- [main] c.e.e.services.FormateurServiceTest      : No active profile set, falling back to default profiles: default
+2022-03-08 23:22:00.122  INFO 16248 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-03-08 23:22:00.188  INFO 16248 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.4.Final
+2022-03-08 23:22:00.392  INFO 16248 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-03-08 23:22:00.874  INFO 16248 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-03-08 23:22:01.990  INFO 16248 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-03-08 23:22:03.201  WARN 16248 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-08 23:22:04.354  INFO 16248 --- [main] c.e.e.services.FormateurServiceTest      : Started FormateurServiceTest in 6.735 seconds (JVM running for 8.046)
+2022-03-08 23:22:05.264  INFO 16248 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : deleteAll exécutée avec succès
+2022-03-08 23:22:05.265  INFO 16248 --- [main] com.esprit.examen.services.CoursService  : In addCours()
+2022-03-08 23:22:05.386  INFO 16248 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addCours exécutée avec succès
+2022-03-08 23:22:05.792  INFO 16248 --- [main] c.e.e.services.FormateurServiceTest      : start test
+2022-03-08 23:22:05.974  INFO 16248 --- [main] c.e.e.services.FormateurServiceTest      : Formateur [id=49, nom=Ben Fekih Ahmed, prenom=Zeineb, poste=Ingénieur, contrat=CDI, email=ahmedzeineb.benfekih@esprit.tn, password=password, sessions=null]
+2022-03-08 23:22:05.974  INFO 16248 --- [main] c.e.e.services.FormateurServiceTest      : final test
+2022-03-08 23:22:05.974  INFO 16248 --- [main] c.e.e.services.FormateurServiceTest      : Method execution time: 181 milliseconds.
+2022-03-08 23:23:14.952  INFO 12424 --- [main] c.e.e.services.FormateurServiceTest      : Starting FormateurServiceTest using Java 1.8.0_111 on LAPTOP-8K52BF4Q with PID 12424 (started by ASUS in C:\Users\ASUS\Downloads\ges-formation-master)
+2022-03-08 23:23:14.953  INFO 12424 --- [main] c.e.e.services.FormateurServiceTest      : No active profile set, falling back to default profiles: default
+2022-03-08 23:23:16.856  INFO 12424 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-03-08 23:23:16.912  INFO 12424 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.4.Final
+2022-03-08 23:23:17.141  INFO 12424 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-03-08 23:23:17.586  INFO 12424 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-03-08 23:23:18.495  INFO 12424 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-03-08 23:23:19.590  WARN 12424 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-08 23:23:20.741  INFO 12424 --- [main] c.e.e.services.FormateurServiceTest      : Started FormateurServiceTest in 6.189 seconds (JVM running for 7.616)
+2022-03-08 23:23:21.213  INFO 12424 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : deleteAll exécutée avec succès
+2022-03-08 23:23:21.215  INFO 12424 --- [main] com.esprit.examen.services.CoursService  : In addCours()
+2022-03-08 23:23:21.336  INFO 12424 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addCours exécutée avec succès
+2022-03-08 23:23:21.530  INFO 12424 --- [main] c.e.e.services.FormateurServiceTest      : start test
+2022-03-08 23:23:21.661  INFO 12424 --- [main] c.e.e.services.FormateurServiceTest      : Formateur [id=50, nom=Ben Fekih Ahmed, prenom=Zeineb, poste=Ingénieur, contrat=CDI, email=ahmedzeineb.benfekih@esprit.tn, password=password, sessions=null]
+2022-03-08 23:23:21.662  INFO 12424 --- [main] c.e.e.services.FormateurServiceTest      : final test
+2022-03-08 23:23:21.662  INFO 12424 --- [main] c.e.e.services.FormateurServiceTest      : Method execution time: 131 milliseconds.
+2022-03-08 23:28:49.783  INFO 14812 --- [main] c.e.examen.services.CoursServiceTest     : Starting CoursServiceTest using Java 1.8.0_111 on LAPTOP-8K52BF4Q with PID 14812 (started by ASUS in C:\Users\ASUS\Downloads\ges-formation-master)
+2022-03-08 23:28:49.784  INFO 14812 --- [main] c.e.examen.services.CoursServiceTest     : No active profile set, falling back to default profiles: default
+2022-03-08 23:28:51.958  INFO 14812 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-03-08 23:28:52.025  INFO 14812 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.4.Final
+2022-03-08 23:28:52.241  INFO 14812 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-03-08 23:28:52.737  INFO 14812 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-03-08 23:28:53.957  INFO 14812 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-03-08 23:28:55.437  WARN 14812 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-08 23:28:56.963  INFO 14812 --- [main] c.e.examen.services.CoursServiceTest     : Started CoursServiceTest in 7.549 seconds (JVM running for 8.987)
+2022-03-08 23:28:57.757  INFO 14812 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : deleteAll exécutée avec succès
+2022-03-08 23:28:57.758  INFO 14812 --- [main] com.esprit.examen.services.CoursService  : In addCours()
+2022-03-08 23:28:57.964  INFO 14812 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addCours exécutée avec succès
+2022-03-08 23:28:58.610  INFO 14812 --- [main] c.e.e.services.FormateurServiceTest      : start test
+2022-03-08 23:28:58.662  INFO 14812 --- [main] c.e.e.services.FormateurServiceTest      : Formateur [id=51, nom=Ben Fekih Ahmed, prenom=Zeineb, poste=Ingénieur, contrat=CDI, email=ahmedzeineb.benfekih@esprit.tn, password=password, sessions=null]
+2022-03-08 23:28:58.662  INFO 14812 --- [main] c.e.e.services.FormateurServiceTest      : final test
+2022-03-08 23:28:58.662  INFO 14812 --- [main] c.e.e.services.FormateurServiceTest      : Method execution time: 51 milliseconds.
+2022-03-08 23:49:09.169  INFO 22464 --- [main] c.esprit.examen.services.TestFormateur   : Starting TestFormateur using Java 1.8.0_111 on LAPTOP-8K52BF4Q with PID 22464 (started by ASUS in C:\Users\ASUS\Downloads\ges-formation-master)
+2022-03-08 23:49:09.679  INFO 22464 --- [main] c.esprit.examen.services.TestFormateur   : No active profile set, falling back to default profiles: default
+2022-03-08 23:49:13.147  INFO 22464 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-03-08 23:49:14.187  INFO 22464 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.4.Final
+2022-03-08 23:49:15.942  INFO 22464 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-03-08 23:49:16.812  INFO 22464 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-03-08 23:49:18.093  INFO 22464 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-03-08 23:49:20.259  WARN 22464 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-08 23:49:21.588  INFO 22464 --- [main] c.esprit.examen.services.TestFormateur   : Started TestFormateur in 12.831 seconds (JVM running for 14.282)
+2022-03-08 23:49:22.074  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : deleteAll exécutée avec succès
+2022-03-08 23:49:22.076  INFO 22464 --- [main] com.esprit.examen.services.CoursService  : In addCours()
+2022-03-08 23:49:22.140  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addCours exécutée avec succès
+2022-03-08 23:49:22.825  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addFormateur exécutée avec succès
+2022-03-08 23:49:23.025  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addFormateur exécutée avec succès
+2022-03-08 23:49:23.063  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addFormateur exécutée avec succès
+2022-03-08 23:49:23.072  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : listFormateurs exécutée avec succès
+2022-03-08 23:49:23.072  INFO 22464 --- [main] c.esprit.examen.services.TestFormateur   : Method execution time: 417 milliseconds.
+2022-03-08 23:49:23.208  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addFormateur exécutée avec succès
+2022-03-08 23:49:23.211  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : listFormateurs exécutée avec succès
+2022-03-08 23:49:23.257  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : supprimerFormateur exécutée avec succès
+2022-03-08 23:49:23.261  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : listFormateurs exécutée avec succès
+2022-03-08 23:49:23.261  INFO 22464 --- [main] c.esprit.examen.services.TestFormateur   : Method execution time: 95 milliseconds.
+2022-03-08 23:49:23.385  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addFormateur exécutée avec succès
+2022-03-08 23:49:23.389  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : listFormateurs exécutée avec succès
+2022-03-08 23:49:23.390  INFO 22464 --- [main] c.esprit.examen.services.TestFormateur   : Method execution time: 118 milliseconds.
+2022-03-08 23:49:23.435  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : supprimerFormateur exécutée avec succès
+2022-03-08 23:49:23.518  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addFormateur exécutée avec succès
+2022-03-08 23:49:23.673  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : modifierFormateur exécutée avec succès
+2022-03-08 23:49:23.677  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : listFormateurs exécutée avec succès
+2022-03-08 23:49:23.682  INFO 22464 --- [main] c.esprit.examen.services.TestFormateur   : Method execution time: 225 milliseconds.
+2022-03-08 23:49:23.774  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addFormateur exécutée avec succès
+2022-03-08 23:49:23.812  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addFormateur exécutée avec succès
+2022-03-08 23:49:23.852  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : addFormateur exécutée avec succès
+2022-03-08 23:49:23.856  INFO 22464 --- [main] com.esprit.examen.config.LoggingAspect   : méthode : listFormateurs exécutée avec succès
+2022-03-08 23:49:23.856  INFO 22464 --- [main] c.esprit.examen.services.TestFormateur   : Method execution time: 121 milliseconds.
